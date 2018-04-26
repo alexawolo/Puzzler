@@ -5,10 +5,10 @@
         id        = "com.sheridan.imm.collective"
         version   = "3.0.1">
 
-    <name>First Mobile App</name>
+    <name>Puzzler</name>
 
     <description>
-        My first mobile application.
+        It's a puzzle yo.
     </description>
 
     <author href="" email="alexawoloszuk@gmail.com">
